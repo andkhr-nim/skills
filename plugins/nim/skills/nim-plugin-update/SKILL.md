@@ -12,7 +12,7 @@ description: >-
 
 # Nim plugin update
 
-Installed plugin version: `0.6.0`
+Installed plugin version: `0.7.0`
 
 ## When to run
 
