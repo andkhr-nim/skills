@@ -13,7 +13,7 @@ description: >-
 
 # Nim plugin update
 
-Installed plugin version: `0.6.2`
+Installed plugin version: `0.6.3`
 
 ## Connect Nim first
 
@@ -57,4 +57,5 @@ If you can't download files, give the user `download_url`, ask them to download 
 Don't download the `.plugin` file here: the plugin updates from its marketplace.
 
 - Claude Code: `claude plugin marketplace update nim`, then `claude plugin update nim@nim`, then restart Claude Code.
-- Codex and Cursor: update the Nim plugin from the plugin marketplace.
+- Codex: `codex plugin marketplace upgrade nim`, then `codex plugin add nim@nim`, then restart Codex.
+- Cursor: update the Nim plugin from the plugin marketplace.
